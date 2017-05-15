@@ -19,6 +19,6 @@ scrapy crawl recode -o itemsRecode.csv
 The untagged training set used in the post is available as `training_set.csv`
 
 
-### Using machine learning to classify startup news
+### [Creating machine learning models to analyze startup news](https://blog.monkeylearn.com/creating-machine-learning-models-to-analyze-startup-news/)
 
 `Try out the events and history classifier.ipynb` is a notebook that does exactly what its name says, both with and without a pipeline. Feel free to try out both versions and see which one performs better.
